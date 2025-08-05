@@ -1,6 +1,6 @@
 # 📈 Global Superstore Analytics Platform
 
-This repository showcases a meticulously crafted Power BI report, serving as the central nervous system for Global Superstore's business intelligence. This analytical platform is designed to convert vast, intricate datasets into a clear, compelling visual story, providing an unparalleled view into **market performance, profitability drivers, and customer behavior**.
+This repository showcases a meticulously crafted Tableau report, serving as the central nervous system for Global Superstore's business intelligence. This analytical platform is designed to convert vast, intricate datasets into a clear, compelling visual story, providing an unparalleled view into **market performance, profitability drivers, and customer behavior**.
 
 ---
 
@@ -10,10 +10,10 @@ This repository showcases a meticulously crafted Power BI report, serving as the
 * **Global Superstore Analytics: A Performance & Strategy Report** 📊
 
 ### Project Mission
-* The core mission of this Power BI report is to empower stakeholders with instant, data-driven insights. It is a foundational tool for dissecting the global superstore's operational data, translating raw metrics into a narrative of performance and profitability. The platform enables users to **track key sales metrics, uncover geographical hotspots, analyze product and customer segments, and understand temporal sales dynamics**, fostering a proactive approach to business strategy and growth.
+* The core mission of this Tableau report is to empower stakeholders with instant, data-driven insights. It is a foundational tool for dissecting the global superstore's operational data, translating raw metrics into a narrative of performance and profitability. The platform enables users to **track key sales metrics, uncover geographical hotspots, analyze product and customer segments, and understand temporal sales dynamics**, fostering a proactive approach to business strategy and growth.
 
 ### Technical Stack
-* **Microsoft Power BI**
+* **Tableau Desktop**
 
 ### Data Assets
 * This report's insights are derived from a rich dataset covering various facets of the Global Superstore's operations, including:
